@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1022459276719",
+    "project_id": "world-connect-test",
+    "storage_bucket": "world-connect-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022459276719:android:1fc753208207f05bc6135a",
+        "android_client_info": {
+          "package_name": "com.example.world_connect_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022459276719-g5m4reu07pk2ilvdjm3a2r2d6geko0im.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.world_connect_test",
+            "certificate_hash": "cd81de711acc19cbfafcafff6b6ff6f37c6f4abe"
+          }
+        },
+        {
+          "client_id": "1022459276719-c5ihgt7fhnglrikpjqo66akrbevhj12i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH7RXrQI2DH072A0D6l3DlYnqgqLjiBAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022459276719-c5ihgt7fhnglrikpjqo66akrbevhj12i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1022459276719-b8fhrsq0s4v41v18mssc7ehnjr4umkpp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.worldConnectTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
